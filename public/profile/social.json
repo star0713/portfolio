@@ -11,6 +11,10 @@
         {
             "network" : "email",
             "href": "mailto:test@test.com"
+        },
+        {
+            "network" : "discord",
+            "href": "mailto:test@test.com"
         }
     ]
 }
