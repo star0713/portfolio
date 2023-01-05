@@ -2,19 +2,31 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.google.com/url?q=https://www.linkedin.com/in/stephan-ullrich-26ab8b257/&sa=D&source=editors&ust=1672948624462927&usg=AOvVaw2VoKbAANEnmAEdG04J1izN"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/star0713"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "whitestar0713@gmail.com"
+        },
+        {
+            "network" : "telegram",
+            "href": "https://www.google.com/url?q=https://t.me/snowman_9999&sa=D&source=editors&ust=1672948624464890&usg=AOvVaw210AEf_8WaUYEh_V14Kpzv"
         },
         {
             "network" : "discord",
-            "href": "mailto:test@test.com"
+            "href": "https://discordapp.com/users/funny#6657"
+        },
+        {
+            "network" : "skype",
+            "href": "skype:cid.4dc72c57f84ae894?chat"
+        },
+        {
+            "network" : "twitter",
+            "href": "https://twitter.com/star0713ok"
         }
     ]
 }
